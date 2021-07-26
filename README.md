@@ -1,5 +1,8 @@
 [![npm version][npmjs-img]][npmjs] [![Build Status][ci-img]][ci]
 
+Slightly modifed package for my specific project
+ - Removing auto-select first option
+
 AriaComponents
 ==============
 
